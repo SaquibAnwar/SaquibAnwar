@@ -36,11 +36,11 @@ I'm a software development engineer. I like to work with C#, .Net, NodeJS and Py
 
 ### Interesting stats
 
-![Saquib's stats](https://github-readme-stats.vercel.app/api?username=saquibanwar&show_icons=true)
+<!-- ![Saquib's stats](https://github-readme-stats.vercel.app/api?username=saquibanwar&show_icons=true) -->
 
 <p align="center">
   <a href="https://github.com/LordDashMe/github-contribution-stats/">
-    <img src="https://github-contribution-stats.vercel.app/api/?username=lorddashme" />
+    <img src="https://github-contribution-stats.vercel.app/api/?username=saquibanwar" />
   </a>
 </p>
 
