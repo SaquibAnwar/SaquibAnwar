@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 # Saquib Anwar
 
-[![Github](https://img.shields.io/github/followers/alkhachatryan?label=Follow&style=social)](https://github.com/alkhachatryan)
-[![GithubViews](https://api.freemotion-llc.com/api/github/v1/profile-views?username=alkhachatryan)](https://github.com/alkhachatryan)
+[![Github](https://img.shields.io/github/followers/saquibanwar?label=Follow&style=social)](https://github.com/saquibanwar)
+[![GithubViews](https://api.freemotion-llc.com/api/github/v1/profile-views?username=saquibanwar)](https://github.com/saquibanwar)
 [![Linkedin](https://img.shields.io/badge/-Alexey%20Khachatryan-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/alexey-khachatryan-8707b7a5/)](https://www.linkedin.com/in/alexey-khachatryan-8707b7a5/)
 [![Mail](https://img.shields.io/badge/-info@khachatryan.org-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:info@khachatryan.org)
 
