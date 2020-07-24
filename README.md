@@ -31,6 +31,23 @@ I'm a software development engineer. I like to work with C#, .Net, NodeJS and Py
 <code><img height="50" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
 
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+
+<!--START_SECTION:waka-->
+**I'm an early 🐤** 
+
+```text
+🌞 Morning    113 commits    ████████░░░░░░░░░░░░░░░░░   32.01% 
+🌆 Daytime    86 commits     ██████░░░░░░░░░░░░░░░░░░░   24.36% 
+🌃 Evening    120 commits    ████████░░░░░░░░░░░░░░░░░   33.99% 
+🌙 Night      34 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.63%
+
+```
+
+
+
+<!--END_SECTION:waka-->
+
 
 ### Interesting stats
 
