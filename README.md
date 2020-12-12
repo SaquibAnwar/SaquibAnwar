@@ -1,7 +1,7 @@
 # Saquib Anwar
 
 [![Github](https://img.shields.io/github/followers/saquibanwar?label=Follow&style=social)](https://github.com/saquibanwar)
-[![GithubViews](https://api.freemotion-llc.com/api/github/v1/profile-views?username=saquibanwar)](https://github.com/saquibanwar)
+<!---[![GithubViews](https://api.freemotion-llc.com/api/github/v1/profile-views?username=saquibanwar)](https://github.com/saquibanwar)--->
 [![Linkedin](https://img.shields.io/badge/-Saquib%20Anwar-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/saquib-anwar/)](https://www.linkedin.com/in/saquib-anwar/)
 [![Mail](https://img.shields.io/badge/-saquibedu@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:saquibedu@gmail.com)
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
