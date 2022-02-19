@@ -1,21 +1,25 @@
 # Saquib Anwar
 
-[![Github](https://img.shields.io/github/followers/saquibanwar?label=Follow&style=social)](https://github.com/saquibanwar)
+[![Github](https://img.shields.io/github/followers/saquibanwar?label=PersonalAccount&style=social)](https://github.com/saquibanwar)
+[![Github](https://img.shields.io/github/followers/saquib-anwar-zocdoc?label=WorkAccount&style=social)](https://github.com/saquib-anwar-zocdoc)
 <!---[![GithubViews](https://api.freemotion-llc.com/api/github/v1/profile-views?username=saquibanwar)](https://github.com/saquibanwar)--->
 [![Linkedin](https://img.shields.io/badge/-Saquib%20Anwar-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/saquib-anwar/)](https://www.linkedin.com/in/saquib-anwar/)
 [![Mail](https://img.shields.io/badge/-saquibedu@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:saquibedu@gmail.com)
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Software Engineer at <a href="https://www.zocdoc.com/">State Street</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Engineer at <a href="https://www.zocdoc.com/"><code><img height="25" src="https://investment-s3.unitedtraders.io/investments/icons/zocdoc.svg"></code></a>
+  &emsp;
+  Previous SE at <a href="https://www.statestreet.com/home.html"><code><img height="25" src="https://mpng.subpng.com/20180602/uxp/kisspng-state-street-corporation-boston-quincy-caterpillar-5b12c83094b256.8388648615279575526091.jpg"></code></a>
 </em></p>
-<p><em> Work Account : [![Github](https://img.shields.io/github/followers/saquib-anwar-zocdoc?label=Follow&style=social)](https://github.com/saquib-anwar-zocdoc) </em></p>
+
+
 
 
 
 ## About me 
-I'm a software development engineer. I like to work with C#, .Net, NodeJS and Python. I love Linux Kernel based OSs such as Ubuntu and CentOS.
+I'm a software development engineer. I like to work with C# .Net, C++ and Python. I love Linux Kernel based OSs such as Ubuntu and CentOS.
 
 
-## Stack I work with
+<!-- ## Stack I work with
 <code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
@@ -30,7 +34,7 @@ I'm a software development engineer. I like to work with C#, .Net, NodeJS and Py
 <code><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code> -->
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
